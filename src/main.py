@@ -68,7 +68,7 @@ class STRExtraction():
 # In[ ]:
 
 
-STRExtraction().main('./Data/forumdata', './Output')
+STRExtraction().main('./example-data', './Output')
 
 
 # In[7]:
