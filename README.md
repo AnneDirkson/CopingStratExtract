@@ -1,5 +1,5 @@
-## Coping Strategy Extraction
-# Pipeline to extract coping strategies for side effects from medical social media. 
+# Coping Strategy Extraction
+## Pipeline to extract coping strategies for side effects from medical social media. 
 
 Under /src are the scripts and requirements for extracting coping strategies from medical social media. View the example-data file to see the required format for input data.
 Aside from the packages in requirements.txt, it is also necessary to download a spacy model with: 
