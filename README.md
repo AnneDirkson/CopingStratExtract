@@ -18,6 +18,6 @@ https://www.loom.com/share/dda9794a0d354589b95e5b01b5ab23a5
 
 ## Additional files
 
-The ontology (coping_strategy_v3.rdf) was created in owlready2 (python). IT can be viewed in python using owlready or with Protege. It is also available HERE> 
+The ontology (coping_strategy_v3.rdf) was created in owlready2 (python). It can be viewed in python using owlready or with Protege. It is also available HERE> 
 
 We also provide the conversion file (dictionary_CSix_labels) to view how the labels in the ontology (which reflect the origin of the label i.e. which ontology it was sourced from) are converted into labels for the extraction. Not all labels were included as target labels during extraction. 
