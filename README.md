@@ -6,12 +6,17 @@ Aside from the packages in requirements.txt, it is also necessary to download a 
 
 python -m spacy download en_core_web_sm
 
-Under /annotation, are the different annotation guidelines for labelling NER, labelling relations between side effects and coping strategies and for labelling the extracted concepts with ontology labels.
+**Note**  Under /annotation, are the different annotation guidelines for labelling NER, labelling relations between side effects and coping strategies and for labelling the extracted concepts with ontology labels.
+
+## Visualization of results
 
 Under /dashboard, one can find the scripts and requirements to generate a visualization of the results obtained in the pipeline. 
 
 Here is a small demo of the visualization:
 https://www.loom.com/share/dda9794a0d354589b95e5b01b5ab23a5
+
+
+## Additional files
 
 The ontology (coping_strategy_v3.rdf) was created in owlready2 (python). IT can be viewed in python using owlready or with Protege. It is also available HERE> 
 
